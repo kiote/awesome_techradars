@@ -2,7 +2,7 @@
 
 > Carefully curated list of awesome Tech radars from different companies.
 
-Different companies create their own technology radars. With this list you can chose the one you like.
+Different companies create their own technology radars. With this list you can chose the one you like more, or just check what technologies different companies use.
 
 Contributions welcome. Add links through pull requests or create an issue to start a discussion.
 
