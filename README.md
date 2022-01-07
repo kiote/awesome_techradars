@@ -5,3 +5,7 @@
 Different companies create their own technology radars. With this list you can chose the one you like.
 
 Contributions welcome. Add links through pull requests or create an issue to start a discussion.
+
+## Lists
+
+- [ThoughtWorks Radar](https://www.thoughtworks.com/radar) - first company started to create radars. A global technology consultancy.
