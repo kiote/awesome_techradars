@@ -4,6 +4,8 @@
 
 Different companies create their own technology radars. With this list you can chose the one you like more, or just check what technologies different companies use.
 
+Tech Radar by definition from ThoughWorks is "An opinionated guide to technology frontiers".
+
 Contributions welcome. Add links through pull requests or create an issue to start a discussion.
 
 ## Lists
