@@ -11,3 +11,4 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [ThoughtWorks Radar](https://www.thoughtworks.com/radar) - first company started to create radars. A global technology consultancy.
 - [Zaladno TechRadar](https://opensource.zalando.com/tech-radar/) - Shoes and Fashion Online (2021).
 - [HMPPS Digital Tech Radar](https://ministryofjustice.github.io/hmpps-digital-tech-radar/docs/index.html) - Her Majesty's Prison and Probation Service (2020).
+- [Tarmac DevOps Tech Radar](https://tarmac.io/techradar.html) - We help businesses design, build, scale, and support exceptional software. (2021)
