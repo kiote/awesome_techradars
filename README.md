@@ -9,3 +9,4 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## Lists
 
 - [ThoughtWorks Radar](https://www.thoughtworks.com/radar) - first company started to create radars. A global technology consultancy.
+- [Zaladno TechRadar](https://opensource.zalando.com/tech-radar/) - Shoes and Fashion Online.
