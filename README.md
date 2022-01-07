@@ -1,6 +1,6 @@
 # List of Awesome Technology Radars [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-    Carefully curated list of awesome Tech radars from different companies.
+> Carefully curated list of awesome Tech radars from different companies.
 
 Different companies create their own technology radars. With this list you can chose the one you like.
 
